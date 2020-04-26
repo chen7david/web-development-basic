@@ -19,7 +19,7 @@ In this course, we will use these three languages to build our projects. The fir
 ```html
 <p>Hello Words, I am html</p>
 ```
--CSS
+- CSS
 ```css
 .btn {
     padding: 15px 10px 15px 10px;
@@ -27,7 +27,7 @@ In this course, we will use these three languages to build our projects. The fir
     color: #FFF;
 }
 ```
--JS
+- JS
 ```js
 alert('Hellow World, I am JS')
 ```

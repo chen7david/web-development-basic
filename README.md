@@ -17,7 +17,7 @@ In this course, we will use these three languages to build our projects. The fir
 ### Sample Code
 - HTML
 ```html
-<p>Hello Words, I am html</p>
+<p>Hello World, I am HTML</p>
 ```
 - CSS
 ```css

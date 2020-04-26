@@ -9,23 +9,32 @@ In this lesson, we will learn about the first of the three languages called HTML
 - tags
     - opening
     - closing
-    - self-closing ```html <p/>```
-- attributes: ```html <p class="some-class-name">```
-    - name ```html class=""```
-    - value ```html some-class-name```
+    - self-closing
+- attributes:
+    - name
+    - value
 - comments
 
 ```html 
 <!-- This is a commnent and will not be rendered on the webpage -->
 
-<!-- Element: tags + attributes + innerHTML -->
+<!-- Element -->
 <p class="some-class-name">hello world</p>
 
-<!-- opening tag: tags without / sign -->
+<!-- opening-tag -->
 <p>
 
-<!-- closing tag: tags with / sign -->
+<!-- closing-tag -->
 <p/>
+
+<!-- attribute -->
+<p class="some-class-name">
+
+<!-- attribute-name -->
+class=""
+
+<!-- attribute-value -->
+some-class-name
 
 ```
 

@@ -5,8 +5,9 @@ In this lesson, we will learn about the first of the three languages called HTML
 </p>
 
 ### Lesson Terminology:
-- elements ```
-html <p class="some-class-name">hello world</p>
+- elements 
+```html
+ <p class="some-class-name">hello world</p>
 ```
 - tags
     - opening ```html <p>```

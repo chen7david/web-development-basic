@@ -1,11 +1,17 @@
 # Lesson 1: Introduction To HTML
 
 <p>
-In this lesson, we will learn about the first of the three language called HTML. It helps to metaphorically think of HTML as the structure of a webpage. it is only concerned with describing what things are present to the webpage. What these things look like and how they behave is described by the two other languages that we will learn later. 
+In this lesson, we will learn about the first of the three languages called HTML. It helps to metaphorically think of HTML as the structure of a webpage. it is only concerned with describing what things are present to the webpage. What these things look like and how they behave is described by the two other languages that we will learn later. 
 </p>
 
 ### Lesson Objectives:
-- HTML
+- terminology:
+    - elements
+        - opening
+        - closing
+    - tags
+    - attributes
+- understand the following concepts
 - CSS
 - JS
 

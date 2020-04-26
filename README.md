@@ -10,7 +10,9 @@ In this lesson, we will learn about the first of the three languages called HTML
  <p class="some-class-name">hello world</p>
 ```
 - tags
-    - opening ```html <p>```
+    - opening ```html 
+    <p>
+    ```
     - closing ```html </p>```
     - self-closing ```html <p/>```
 - attributes: ```html <p class="some-class-name">```

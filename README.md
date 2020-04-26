@@ -19,11 +19,10 @@ In this lesson, we will learn about the first of the three languages called HTML
 <p>
 An HTML page is just a collection of elements arranged in special ways. An element is made up of smaller parts. These smaller parts are: tags, attributes and content.
 Below are some rules for elements:
+</p>
 - elements may or may not have a closing tag, but they always have a beginning tag.
 - elements may or may not have attributes.
 - elements may or may not have content. 
-</p>
-
 
 ```html 
 <!-- This is a commnent and will not be rendered on the webpage -->

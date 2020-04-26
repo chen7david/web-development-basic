@@ -15,6 +15,7 @@ In this course, we will use these three languages to build our projects. The fir
 </p>
 
 ### Sample Code
+Here is some sample code to help you get an idea of what the languages look like. 
 - HTML
 ```html
 <p>Hello World, I am HTML</p>
@@ -31,4 +32,6 @@ In this course, we will use these three languages to build our projects. The fir
 ```js
 alert('Hellow World, I am JS')
 ```
+
+Now lets start with lesson one where we will learn about HTML
 

@@ -2,7 +2,7 @@
 
 # Lesson 0: Preface
 <p>
-In this course, we will learn the basics of web development. With these lessons, we hope to leave you with an intuitive understanding of the building block and the development architecture. We will learn by theory and example, giving you both an understanding and a hands-on experience of the fundamentals.
+In this course, we will learn the basics of web development. With these lessons, we hope to leave you with an intuitive understanding of the building blocks and the development architecture. We will learn by theory and example, giving you both an understanding and a hands-on experience of the fundamentals.
 </p>
 
 ### Course outline:

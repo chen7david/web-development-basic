@@ -1,10 +1,10 @@
 # Lesson 1: Introduction To HTML
 
 <p>
-In this course, we will learn the basics of web development. With these lessons, we hope to leave you with an intuitive understanding of the building block and the development architecture. We will learn by theory and example, giving you both an understanding and a hands-on experience of the fundamentals.
+In this lesson, we will learn about the first language of the three called HTML. It helps to metaphorically think of HTML as the structure of a webpage. it is only concerned with describing what things are present to the webpage. What these things look like and how they behave is described by the two other languages that we will learn later. 
 </p>
 
-### Course outline:
+### Lesson Objectives:
 - HTML
 - CSS
 - JS

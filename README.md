@@ -5,11 +5,14 @@ In this lesson, we will learn about the first of the three languages called HTML
 </p>
 
 ### Lesson Terminology:
-- elements
-    - opening
-    - closing
+- elements ```html <p >hello world</p>```
 - tags
-- attributes
+    - opening ```html <p>```
+    - closing ```html </p>```
+    - self-closing ```html <p/>```
+- attributes: ```html <p class="some-class-name">```
+    - name ```html class=""```
+    - value ```html some-class-name```
 
 ### Lesson Objectives:
 - understand the following concepts

@@ -14,11 +14,26 @@ In this lesson, we will learn about the first of the three languages called HTML
     ```html 
     <p>
     ```
-    - closing ```html </p>```
-    - self-closing ```html <p/>```
-- attributes: ```html <p class="some-class-name">```
-    - name ```html class=""```
-    - value ```html some-class-name```
+    - closing 
+    ```html 
+    </p>
+    ```
+    - self-closing 
+    ```html
+    <input/>
+    ```
+- attributes: 
+```html 
+<p class="some-class-name">
+```
+    - name 
+    ```html
+     class=""
+    ```
+    - value 
+    ```html 
+        some-class-name
+    ```
 
 ### Lesson Objectives:
 - understand the following concepts

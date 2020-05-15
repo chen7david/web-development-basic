@@ -28,6 +28,16 @@ Below are some rules for elements:
 - elements may or may not have attributes.
 - elements may or may not have content. 
 
+### Lesson Objectives:
+At the end of this lesson you will be able to answer the following questions:
+- What is HTML?
+- What is HTML used for?
+- What does an HTML document look like?
+- What are the parts of an HTML document and what does each part describe?
+- What is an HTML element?
+- What parts can an HTML element have and what does each part do?
+- What are the most commonly used HTML elements? (name then and also specify if they have a closign tag)
+
 ```html 
 <!-- This is a commnent and will not be rendered on the webpage -->
 

@@ -69,7 +69,9 @@ At the end of this lesson you will be able to answer the following questions:
 <h3>I and am an H3 tag</h3>
 ...
 <h6>I and am an H46 tag</h6>
+```
 
+```html 
 <b> - Bold text
 <strong> - Important text
 <i> - Italic text

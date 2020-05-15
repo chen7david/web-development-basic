@@ -73,7 +73,6 @@ At the end of this lesson you will be able to answer the following questions:
 
 
 #### Anchor Tag:
-Achor tags help us to go from one HTML page to another.
 ```html 
 <a href="https://www.baidu.com/">Go to Baidu</a>
 <a href="aboutus.html">Go to Youku</a>

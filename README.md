@@ -44,15 +44,15 @@ At the end of this lesson you will be able to answer the following questions:
 ```html 
 <!DOCTYPE html>
 <html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
+    <head>
+        <title>Page Title</title>
+    </head>
+    <body>
 
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
+        <h1>This is a Heading</h1>
+        <p>This is a paragraph.</p>
 
-</body>
+    </body>
 </html>
 ```
 

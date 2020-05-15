@@ -21,7 +21,7 @@ An HTML page is just a collection of elements arranged in special ways. An eleme
 Below are some rules for elements:
 </p>
 ### Lesson Terminology:
-- elements may or may not have a closing tag, but they always have a beginning tag.
+- elements may or may not have a closing tag, but they always have a opening tag.
 - elements may or may not have attributes.
 - elements may or may not have content. 
 

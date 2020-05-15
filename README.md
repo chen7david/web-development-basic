@@ -46,6 +46,9 @@ class=""
 <!-- attribute-value -->
 some-class-name
 
+<!--class with attribute-values -->
+class="some-class-name some-other-class-name"
+
 ```
 
 ### Lesson Objectives:
@@ -53,25 +56,5 @@ some-class-name
 - CSS
 - JS
 
-<p>
-In this course, we will use these three languages to build our projects. The first language we will look at is HTML (Hypertext Markup Language), then CSS (Cascading Style Sheets) and finally Java Script A.K.A. (ECMA-Script)
-</p>
 
-### Sample Code
-- HTML
-```html
-<p>Hello World, I am HTML</p>
-```
-- CSS
-```css
-.btn {
-    padding: 15px 10px 15px 10px;
-    background-color: yellow;
-    color: #FFF;
-}
-```
-- JS
-```js
-alert('Hellow World, I am JS')
-```
 

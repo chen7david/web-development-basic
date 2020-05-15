@@ -136,3 +136,74 @@ At the end of this lesson you will be able to answer the following questions:
   </tr>
 </table>
 ```
+
+#### Table Tag:
+```html 
+<iframe src="https://www.baidu.com/" height="200" width="300"></iframe>
+```
+### HTML Forms
+#### Form Tag:
+```html 
+<form>
+.
+form elements
+.
+</form>
+```
+
+#### Form Elements:
+```html 
+<form>
+    <input type="text">
+    <input type="radio">
+    <input type="submit">
+
+    <select id="cars" name="cars">
+        <option value="volvo">Volvo</option>
+        <option value="saab">Saab</option>
+        <option value="fiat">Fiat</option>
+        <option value="audi">Audi</option>
+    </select>
+
+    <textarea name="message" rows="10" cols="30">
+        The cat was playing in the garden.
+    </textarea>
+</form>
+
+<form action="/action_page.php">
+    <fieldset>
+        <legend>Personalia:</legend>
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname" value="John"><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname" value="Doe"><br><br>
+        <input type="submit" value="Submit">
+    </fieldset>
+</form>
+```
+
+#### Input Types Tag:
+```html 
+<input type="button">
+<input type="checkbox">
+<input type="color">
+<input type="date">
+<input type="datetime-local">
+<input type="email">
+<input type="file">
+<input type="hidden">
+<input type="image">
+<input type="month">
+<input type="number">
+<input type="password">
+<input type="radio">
+<input type="range">
+<input type="reset">
+<input type="search">
+<input type="submit">
+<input type="tel">
+<input type="text">
+<input type="time">
+<input type="url">
+<input type="week">
+```

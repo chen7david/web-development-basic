@@ -4,6 +4,8 @@
 In this lesson, we will learn about the first of the three languages called HTML. It helps to metaphorically think of HTML as the structure of a webpage. it is only concerned with describing what things are present on the webpage. What these things look like and how they behave is described by the two other languages that we will learn later. 
 </p>
 
+![](./static/image/elemtn-anatomy.png)
+
 ### Lesson Terminology:
 - elements 
 - tags

@@ -36,38 +36,31 @@ At the end of this lesson you will be able to answer the following questions:
 - What are the parts of an HTML document and what does each part describe?
 - What is an HTML element?
 - What parts can an HTML element have and what does each part do?
-- What are the most commonly used HTML elements? (name then and also specify if they have a closign tag)
+- What are the most commonly used HTML elements? (name then and also specify if they have a closing tag)
 
+### HTML ELEMENTS:
+#### Signle and Multiline Comments:
 ```html 
 <!-- This is a commnent and will not be rendered on the webpage -->
-
-<!-- Element -->
-<p class="some-class-name">hello world</p>
-
-<!-- opening-tag -->
-<p>
-
-<!-- closing-tag -->
-<p/>
-
-<!-- attribute -->
-<p class="some-class-name">
-
-<!-- attribute-name -->
-class=""
-
-<!-- attribute-value -->
-some-class-name
-
-<!--class with attribute-values: classes are seperated by spaces -->
-class="some-class-name some-other-class-name"
-
 ```
 
-### Lesson Objectives:
-- understand the following concepts
-- CSS
-- JS
+#### Text Formatting:
+```html 
+<p>I and am a P tag</p>
+<h1>I and am an H1 tag</h1>
+<h2>I and am an H2 tag/h2>
+<h3>I and am an H3 tag</h3>
+...
+<h6>I and am an H46 tag</h6>
+```
+<p>I and am a P tag</p>
+<h1>I and am an H1 tag</h1>
+<h2>I and am an H2 tag/h2>
+<h3>I and am an H3 tag</h3>
+...
+<h6>I and am an H46 tag</h6>
+
+
 
 
 

@@ -78,6 +78,10 @@ At the end of this lesson you will be able to answer the following questions:
 <a href="filename.html">Go to Youku</a>
 ```
 
+#### Image Tag:
+```html 
+<img src="filename.jpg" alt="text that you will see if image was not found" width="104" height="142">
+```
 
 
 

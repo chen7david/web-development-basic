@@ -69,6 +69,17 @@ At the end of this lesson you will be able to answer the following questions:
 <h3>I and am an H3 tag</h3>
 ...
 <h6>I and am an H46 tag</h6>
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Small text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
 ```
 
 
@@ -83,7 +94,7 @@ At the end of this lesson you will be able to answer the following questions:
 <img src="filename.jpg" alt="text that you will see if image was not found" width="104" height="142">
 ```
 
-#### Image Tag:
+#### Button Tag:
 ```html 
 <button>Button Name</button>
 ```

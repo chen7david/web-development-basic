@@ -115,3 +115,24 @@ At the end of this lesson you will be able to answer the following questions:
   <li>Milk</li>
 </ol>
 ```
+
+#### Table Tag:
+```html 
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>David</td>
+    <td>Chen</td>
+    <td>27</td>
+  </tr>
+  <tr>
+    <td>Thomas</td>
+    <td>Su</td>
+    <td>10</td>
+  </tr>
+</table>
+```

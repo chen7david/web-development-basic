@@ -47,7 +47,14 @@ At the end of this lesson you will be able to answer the following questions:
 #### Text Formatting:
 ```html 
 <p>I and am a P tag</p>
+```
+<p>I and am a P tag</p>
+
+```html 
 <h1>I and am an H1 tag</h1>
+```
+<h1>I and am an H1 tag</h1>
+```html 
 <h2>I and am an H2 tag/h2>
 <h3>I and am an H3 tag</h3>
 ...

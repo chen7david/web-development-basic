@@ -83,5 +83,22 @@ At the end of this lesson you will be able to answer the following questions:
 <img src="filename.jpg" alt="text that you will see if image was not found" width="104" height="142">
 ```
 
+#### Image Tag:
+```html 
+<button>Button Name</button>
+```
 
+#### Ordered & Unordered Lists Tag:
+```html 
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
 
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
+```

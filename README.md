@@ -39,6 +39,23 @@ At the end of this lesson you will be able to answer the following questions:
 - What are the most commonly used HTML elements? (name then and also specify if they have a closing tag)
 
 ### HTML ELEMENTS:
+
+#### Basic HTML Document Structure:
+```html 
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
+```
+
 #### Signle and Multiline Comments:
 ```html 
 <!-- This is a commnent and will not be rendered on the webpage -->
@@ -53,12 +70,7 @@ At the end of this lesson you will be able to answer the following questions:
 ...
 <h6>I and am an H46 tag</h6>
 ```
-<p>I and am a P tag</p>
-<h1>I and am an H1 tag</h1>
-<h2>I and am an H2 tag/h2>
-<h3>I and am an H3 tag</h3>
-...
-<h6>I and am an H46 tag</h6>
+
 
 
 

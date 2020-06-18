@@ -1,10 +1,10 @@
-# Lesson 1: Introduction To HTML
+# Lesson 2: Introduction To CSS
 
 <p>
-In this lesson, we will learn about the first of the three languages called HTML. It helps to metaphorically think of HTML as the structure of a webpage. it is only concerned with describing what things are present on the webpage. What these things look like and how they behave is described by the two other languages that we will learn later. 
+In this lesson, we will learn about the second of the three languages called CSS. It helps to metaphorically think of CSS as the styling of a webpage. it is only concerned with describing how things are present on the webpage.
 </p>
 
-![](./static/image/elemtn-anatomy.png)
+
 
 ### Lesson Terminology:
 - elements 

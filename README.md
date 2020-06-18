@@ -4,10 +4,18 @@
 In this lesson, we will learn about the second of the three languages called CSS. It helps to metaphorically think of CSS as the styling of a webpage. it is only concerned with describing how things are present on the webpage.
 </p>
 
+```css
+
+selector {
+  property-one: value;
+  property-two: value;
+}
+
+```
 
 
 ### Lesson Terminology:
-- elements 
+- selectors 
 - tags
     - opening
     - closing

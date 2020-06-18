@@ -16,14 +16,36 @@ selector {
 
 ### Lesson Terminology:
 - selectors 
-- tags
-    - opening
-    - closing
-    - self-closing
+  - class
+  - element
+  - id
+- property
+  - opening
+  - closing
+  - self-closing
 - attributes:
     - name
     - value
 - comments
+
+
+```css
+
+tag-name {
+  property-one: value;
+  property-two: value;
+}
+
+#id-selector {
+  property-one: value;
+  property-two: value;
+}
+
+.class-selector {
+  property-one: value;
+  property-two: value;
+}
+
 
 #### Elements
 <p>

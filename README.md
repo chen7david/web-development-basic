@@ -25,7 +25,6 @@ At the end of this lesson you will be able to answer the following questions:
 - External CSS
 
 
-
 ### Syntax
 
 ##### General CSS Syntax

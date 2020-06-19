@@ -8,10 +8,10 @@
 ### The Three Ways of using CSS in your HTML elements
 <p>
   There are three ways of including CSS in your HTML and they are:
-  - Internal CSS
-  - External CSS 
-  - Inline CSS
 </p>
+- Internal CSS
+- External CSS 
+- Inline CSS
 
 ### Syntax
 ##### Inline Styling

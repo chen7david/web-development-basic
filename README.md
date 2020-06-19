@@ -75,6 +75,8 @@ selector {
 </body>
 ```
 
+### CSS Selector Types
+
 ```css
 
 tag-name {

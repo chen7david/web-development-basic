@@ -5,6 +5,16 @@
   In this lesson, we will learn about the second of the three languages called CSS. We will learn about the three ways we can include css into our HTML file, and their drawbacks. We will also learn hot to use CSS to style our elements even when they are nested. It helps to metaphorically think of CSS as the styling of a webpage. it is only concerned with describing how things are present on the webpage.
 </p>
 
+### Lesson Objectives:
+At the end of this lesson you will be able to answer the following questions:
+- What does CSS stand for?
+- What is CSS used for?
+- What does a CSS document look like?
+- How do we include CSS in our HTML code?
+- What is the syntax of CSS?
+- How do you target nested elements with CSS selectors?
+- What are the most commonly used CSS properties?
+
 ### The Three Ways of using CSS in your HTML elements
 <p>
   There are three ways of including CSS in your HTML and they are:
@@ -95,12 +105,3 @@ tag-name {
 }
 
 ```
-### Lesson Objectives:
-At the end of this lesson you will be able to answer the following questions:
-- What does CSS stand for?
-- What is CSS used for?
-- What does a CSS document look like?
-- How do we include CSS in our HTML code?
-- What is the syntax of CSS?
-- How do you target nested elements with CSS selectors?
-- What are the most commonly used CSS properties?

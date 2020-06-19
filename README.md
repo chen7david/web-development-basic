@@ -58,17 +58,7 @@ selector {
 ##### External CSS
 ```html
 <head>
-  <style>
-
-    .class-selector-name {
-      property-one: value;
-    }
-
-    #id-selector-name {
-      property-one: value;
-    }
-
-  </style>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <element id="id-selector-name" class="class-selector-name" > content </element>

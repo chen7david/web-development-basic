@@ -71,7 +71,7 @@ selector {
   </style>
 </head>
 <body>
-  <element class="class-selector-name" id="id-selector-name" > content </element>
+  <element id="id-selector-name" class="class-selector-name" > content </element>
 </body>
 ```
 

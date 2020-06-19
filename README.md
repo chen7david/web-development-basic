@@ -29,6 +29,16 @@ selector {
 
 ```
 
+### Lesson Terminology:
+- usage: 
+  - inline css
+  - internal css
+  - external css
+- selectors: 
+  - element
+  - class
+  - id
+
 ##### Inline CSS
 ```html
 <element style="property-one: value;" > content </element>
@@ -64,17 +74,6 @@ selector {
   <element id="id-selector-name" class="class-selector-name" > content </element>
 </body>
 ```
-
-
-### Lesson Terminology:
-- usage: 
-  - inline css
-  - internal css
-  - external css
-- selectors: 
-  - element
-  - class
-  - id
 
 ```css
 

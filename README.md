@@ -67,19 +67,14 @@ selector {
 
 
 ### Lesson Terminology:
-- selectors 
-  - class
+- usage: 
+  - inline css
+  - internal css
+  - external css
+- selectors: 
   - element
+  - class
   - id
-- property
-  - opening
-  - closing
-  - self-closing
-- attributes:
-    - name
-    - value
-- comments
-
 
 ```css
 
@@ -98,6 +93,7 @@ tag-name {
   property-two: value;
 }
 
+```
 
 #### Elements
 <p>

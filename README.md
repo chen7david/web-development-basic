@@ -97,10 +97,10 @@ tag-name {
 ```
 ### Lesson Objectives:
 At the end of this lesson you will be able to answer the following questions:
-- What is HTML?
-- What is HTML used for?
-- What does an HTML document look like?
-- What are the parts of an HTML document and what does each part describe?
-- What is an HTML element?
-- What parts can an HTML element have and what does each part do?
-- What are the most commonly used HTML elements? (name then and also specify if they have a closing tag)
+- What does CSS stand for?
+- What is CSS used for?
+- What does a CSS document look like?
+- How do we include CSS in our HTML code?
+- What is the syntax of CSS?
+- How do you target nested elements with CSS selectors?
+- What are the most commonly used CSS properties?

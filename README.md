@@ -14,13 +14,12 @@
 - Internal CSS
 - External CSS
 
-### Syntax
-##### Inline Styling
-```html
-<element style="property-one: value;" > content </element>
-```
 
-or 
+
+### Syntax
+
+##### General CSS Syntax
+
 ```css
 
 selector {
@@ -28,6 +27,52 @@ selector {
   property-two: value;
 }
 
+```
+
+##### Inline CSS
+```html
+<element style="property-one: value;" > content </element>
+```
+
+
+##### Internal CSS
+```html
+<head>
+  <style>
+
+    .class-selector-name {
+      property-one: value;
+    }
+
+    #id-selector-name {
+      property-one: value;
+    }
+
+  </style>
+</head>
+<body>
+  <element class="class-selector-name" id="id-selector-name" > content </element>
+</body>
+```
+
+##### External CSS
+```html
+<head>
+  <style>
+
+    .class-selector-name {
+      property-one: value;
+    }
+
+    #id-selector-name {
+      property-one: value;
+    }
+
+  </style>
+</head>
+<body>
+  <element class="class-selector-name" id="id-selector-name" > content </element>
+</body>
 ```
 
 

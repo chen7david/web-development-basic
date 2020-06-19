@@ -10,9 +10,9 @@
   There are three ways of including CSS in your HTML and they are:
 </p>
 
+- Inline CSS
 - Internal CSS
 - External CSS
-- Inline CSS
 
 ### Syntax
 ##### Inline Styling

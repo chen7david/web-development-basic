@@ -2,13 +2,21 @@
 
 ### Introduction
 <p>
-  In this lesson, we will learn about the second of the three languages called CSS. It helps to metaphorically think of CSS as the styling of a webpage. it is only concerned with describing how things are present on the webpage.
+  In this lesson, we will learn about the second of the three languages called CSS. We will learn about the three ways we can include css into our HTML file, and their drawbacks. We will also learn hot to use CSS to style our elements even when they are nested. It helps to metaphorically think of CSS as the styling of a webpage. it is only concerned with describing how things are present on the webpage.
+</p>
+
+### The Three Ways of using CSS in your HTML elements
+<p>
+  There are three ways of including CSS in your HTML and they are:
+  - Internal CSS
+  - External CSS 
+  - Inline CSS
 </p>
 
 ### Syntax
-
+##### Inline Styling
 ```html
-<element style="property-one: value;">content</element>
+<element style="property-one: value;" > content </element>
 ```
 
 or 

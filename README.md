@@ -1,7 +1,7 @@
 # Lesson 2: Introduction To CSS
 
 <p>
-In this lesson, we will learn about the second of the three languages called CSS. It helps to metaphorically think of CSS as the styling of a webpage. it is only concerned with describing how things are present on the webpage.
+  <strong>Introduction:</strong> In this lesson, we will learn about the second of the three languages called CSS. It helps to metaphorically think of CSS as the styling of a webpage. it is only concerned with describing how things are present on the webpage.
 </p>
 
 ```css

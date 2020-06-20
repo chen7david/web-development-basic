@@ -207,3 +207,19 @@ form elements
 <input type="url">
 <input type="week">
 ```
+
+#### TEST 001
+- What does HTML stand for?
+- What does CSS stand for?
+- What does JS stand for?
+- Which two languages are used to create what you see on your screen?
+- What language is used to control the behavior of your html elements?
+- What is the structure of an HTML element?
+- What types of HTML elements/tags do we know?
+- What can you add to an html element?
+- Name 5 common attributes.
+- Where in your HTML file would you place CSS code?
+- Where in your HTML file would you place JS code?
+- What tags are used to require in code from external files?
+- Why do we split up HTML files into separate HTML, CSS and JS files?
+- What is the difference between the id and class attribute?

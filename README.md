@@ -104,3 +104,23 @@ tag-name {
 }
 
 ```
+
+
+#### TEST 001
+- What does CSS stand for?
+- How many ways are there to include CSS into your HTML elements?
+- Explain how these three ways of including CSS into your HTML elements works.
+- What is the syntax of a CSS style definition? (name the parts)
+- What are the most commonly used CSS selectors?
+- What are the advantages and disadvantages of the following concepts:
+  - Inline CSS
+  - Internal CSS
+  - External CSS
+- What CSS two attribute controls spacing in and outside of an element?
+- What is the difference between the CSS attributes color and background-color?
+- Name 5 CSS attributes that you think will be most useful and explain how you would use them?
+- If a CSS class is defined in more than one place, which one of them will affect the appearance of your HTML element?
+- How many ways do we have to define color in CSS?
+- What is the difference between padding and margin?
+- How can we write the hexadecimal value shorter in CSS FFFFFF?
+- What color does FFFFFF represent?

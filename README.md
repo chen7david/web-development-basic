@@ -223,3 +223,6 @@ form elements
 - What tags are used to require in code from external files?
 - Why do we split up HTML files into separate HTML, CSS and JS files?
 - What is the difference between the id and class attribute?
+- What is the file extension for an HTML file?
+- What is the file extension for an CSS file?
+- What is the file extension for an Javascript file?

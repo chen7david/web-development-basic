@@ -5,7 +5,7 @@
 In this course, we will learn the basics of web development. With these lessons, we hope to leave you with an intuitive understanding of the building blocks and the development architecture. We will learn by theory and example, giving you both an understanding and a hands-on experience of the fundamentals.
 </p>
 
-Data Types
+#### Data Types:
 - boolean
 - integer
 - string
@@ -34,6 +34,32 @@ let function = function helloWorld(){
     console.log('Hello World')
 }
 ```
+
+#### Conditionals:
+- If
+- Else
+- ternary
+- switch
+- while
+- Do wile
+- for
+
+```js
+let condition = true
+
+if(condition){
+    // run this code ...
+}else {
+    // run this code ...
+}
+
+let ternary = condition ? 1 : 0
+
+for(let i = 1; i < 100; i++){
+    console.log({i})
+}
+```
+
 ##### Project 001 Random Colored Pixel
 Follow the follwoign instructions:
 1. Create the below folder structure
@@ -87,6 +113,4 @@ function changeBoxColor(){
 
 box.addEventListener('click', changeBoxColor)
 ```
-
-Now lets start with lesson one where we will learn about HTML
 

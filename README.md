@@ -34,7 +34,9 @@ let function = function helloWorld(){
     console.log('Hello World')
 }
 ```
-
+##### Project 001 Random Colored Pixel
+Follow the follwoign instructions:
+1. Create the below folder structure
 ```bash
     ├── index.html
     ├── main.css

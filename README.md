@@ -36,12 +36,12 @@ let function = function helloWorld(){
 ```
 
 #### Conditionals:
-- If
-- Else
+- if
+- else
 - ternary
 - switch
 - while
-- Do wile
+- do wile
 - for
 
 ```js

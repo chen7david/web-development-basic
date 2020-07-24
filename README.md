@@ -11,20 +11,28 @@ Data Types
 - string
 - array
 - object
+- function
 
 ```js
-// Booleans
+
 let boolean = false
+
 let integer = 1
+
 let string = "hello world"
+
 let array = ['apple', 'pear', 'mango']
+
 let object = { 
     name: 'David',
     think: (idea) {
         return conclusion(idea)
     }
 }
-alert('Hellow World, I am JS')
+
+let function = function helloWorld(){
+    console.log('Hello World')
+}
 ```
 
 Now lets start with lesson one where we will learn about HTML

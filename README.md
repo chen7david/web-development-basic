@@ -13,6 +13,17 @@ Data Types
 - object
 
 ```js
+// Booleans
+let boolean = false
+let integer = 1
+let string = "hello world"
+let array = ['apple', 'pear', 'mango']
+let object = { 
+    name: 'David',
+    think: (idea) {
+        return conclusion(idea)
+    }
+}
 alert('Hellow World, I am JS')
 ```
 

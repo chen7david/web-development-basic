@@ -35,5 +35,11 @@ let function = function helloWorld(){
 }
 ```
 
+```bash
+    ├── index.html
+    ├── main.css
+    └── main.js
+```
+
 Now lets start with lesson one where we will learn about HTML
 
